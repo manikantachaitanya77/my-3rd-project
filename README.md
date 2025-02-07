@@ -1,4 +1,3 @@
-# my-3rd-project
 # BIGMART SALES PREDICTION USING ENSEMBLE LEARNING
 
 ## Overview
